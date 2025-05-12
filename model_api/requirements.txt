@@ -1,0 +1,5 @@
+fastapi
+uvicorn
+torch
+transformers
+http://localhost:8000/docs#/
